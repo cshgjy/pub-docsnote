@@ -80,6 +80,12 @@ code other file extension')
 ## 导航栏(nav)图文标题
 ![](https://raw.githubusercontent.com/cshgjy/images/master/other/20190820074502.png)
 
+## 图片+外链
+![](https://raw.githubusercontent.com/cshgjy/images/master/other/20190830093240.jpg '图片+外链+大小+注译')
+
+## docsify折角效果
+[![](https://raw.githubusercontent.com/cshgjy/images/master/other/190902210830.gif '点击提取代码')](https://snippets.cacher.io/snippet/5c7ecd95953a754ee946)
+
 
 ---
 
