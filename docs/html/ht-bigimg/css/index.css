@@ -1,0 +1,44 @@
+/*首页*/
+ html {
+    overflow:-moz-scrollbars-vertical;
+}
+/*Always show Firefox scrollbar*/
+ body {
+    font:12px/22px"宋体";  / * 字体及大小 */
+    word-break:break-all;
+    text-align:left;  /* 文字靠左 */
+    background:#C0C0C0;  /* 背景色:C0C0C0; */
+    color:#4E4E4E;  /* 字体颜色 */
+}
+ul, li {
+    list-style:none;  /* li标签不带点 */
+}
+a {
+    color:#333; /* 带链接的文字颜色 */
+    text-decoration:none;  /* 去除带链接文字的下划线 */
+}
+a:hover {
+    color:#ff722d;  /* 鼠标触碰文字 ‘变颜色’ */
+    text-decoration:none;  /* 鼠标触碰文字时 ‘无下划线’ */
+}
+img {
+    border:0;   /* 图片的边线大小 */
+}
+a img, a:hover img {
+    border:0;  /* 鼠标触碰小图时无边框显示 */
+}
+.latestWeb {
+    width:90%;  /* 网页外框的宽度；原值：width:980px; */
+    margin:10px auto 0; /*div框居中及上边距为（原）10px */
+}  /* 原：width:980px; margin:10px auto 0; */
+.latestWeb ul {
+    overflow:hidden;
+    _height:1%;
+}
+.latestWeb li {
+    float:left;  /*向左浮动*/
+    border:1px solid #EBEAEA;  /* li框边线的 ‘大小-颜色-实体’;原边线厚：1px */
+    width:120px;  /* li框的 ‘宽高’;原宽150px*/
+    padding:10px;  /* 原:10px */
+    margin:5px 5px 5px 5px; /* 原：14px 14px 0 0 */
+}  /* 控制整个li框的属性 */
