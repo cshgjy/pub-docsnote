@@ -1,6 +1,7 @@
 - [![html](img\html.png ':size=30 html')](html\3d-html\3d-html.md)
     - [私房库](html\html-私房库.md)
     - [知识集](html\html-知识集.md)
+    - [知识库](html\知识库.md)
     - [其他](html\html-其它.md)
 
 - [![ae](img\ae.png ':size=30 html')](ae\3d-ae\3d-ae.md)
