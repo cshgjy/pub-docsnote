@@ -1,5 +1,5 @@
-- ![note](img\note.ico ':size=30 笔记')
-    - [日常日记](nav\nav-日常日记.md)
+- [![note](img\note.ico ':size=30 日常日记')](nav\nav-日常日记.md)
+
 - [![tree-note](img\web.png ':size=30  零散记录')](nav\nav-零散记录.md)
 
 - [![video](img\video.png ':size=30 视频收藏')](nav\nav-视频收藏.md) 
