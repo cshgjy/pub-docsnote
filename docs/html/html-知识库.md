@@ -5,6 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	<iframe src="ht-bigimg\index.html" width="100%" height="530px"></iframe>
+	<iframe src="http://ahui3a.com/qt/ht-bigimg/index.html" width="100%" height="530px"></iframe>
 </body>
 </html>
