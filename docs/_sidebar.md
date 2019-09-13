@@ -31,7 +31,6 @@
 
 - ![link](img\link.png ':size=30 link')
     - [vscode插件及快捷键](link\vs_code插件及快捷键.md)
-    - [其它](link/link-其它.md)
 
 
 
