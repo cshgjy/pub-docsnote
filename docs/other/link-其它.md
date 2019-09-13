@@ -7,5 +7,5 @@
 
 ##### [6 个免费好用的个人博客写作平台分享](https://www.jianshu.com/p/31d301707cfe?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
 
-##### 
+* [这些上访行为涉嫌违法！会影响子女考学、入党、入伍、报考公务员！](https://mp.weixin.qq.com/s/jJIROKjTP8i9gupb_smbLg)
 
