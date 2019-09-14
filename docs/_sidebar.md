@@ -30,7 +30,7 @@
 - [![other](img\other.png ':size=30 git')](other\3d-oth\3d-oth.md)
 
 - ![link](img\link.png ':size=30 link')
-    - [vscode插件及快捷键](link\vs_code插件及快捷键.md)
+    - [vscode插件及快捷键](other/vs_code插件及快捷键.md)
 
 
 
