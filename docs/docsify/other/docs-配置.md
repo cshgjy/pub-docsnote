@@ -15,7 +15,7 @@ npm i docsify-cli -g
 如果想在项目的 ./docs 目录里写文档，直接通过 init 初始化项目。
 
 ```markdown
-docsify init ./docs
+docsify init
 ```
 
 ## 开始写文档

@@ -84,7 +84,7 @@ code other file extension')
 ![](https://raw.githubusercontent.com/cshgjy/images/master/other/20190830093240.jpg '图片+外链+大小+注译')
 
 ## docsify折角效果
-[![](https://raw.githubusercontent.com/cshgjy/images/master/other/190902210830.gif '点击提取代码')](https://snippets.cacher.io/snippet/5c7ecd95953a754ee946)
+[![](https://raw.githubusercontent.com/cshgjy/images/master/other/190902210830.gif '点击提取代码')](https://api.cacher.io/raw/5c7ecd95953a754ee946/d700e493ddd11cd7afe2/Folding patterns.md)
 
 
 ---
