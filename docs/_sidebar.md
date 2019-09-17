@@ -51,8 +51,8 @@
 
 </details>
 
-- <details><summary><b>other</b></summary>
-
+- <details><summary><b>other</b></summary>  
+  
    - [vscode插件及快捷键](other\vs_code插件及快捷键.md)
    - [其它](other\other.md)
 
