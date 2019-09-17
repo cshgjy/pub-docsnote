@@ -1,6 +1,4 @@
-- [![note](img\note.ico ':size=30 日常日记')](nav\nav-日常日记.md)
-
-- [![video](img\video.png ':size=30 视频收藏')](nav\nav-视频收藏.md) 
+- [![note](img\note.ico ':size=30 日常日记')](nav\nav-日常日记.md) 
 
 - ![docsify](img\docsify.svg ':size=30 docsify')
     - [![doc](img\docsify.svg ':size=20')docsify](https://docsify.js.org)
