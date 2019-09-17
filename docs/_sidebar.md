@@ -36,6 +36,7 @@
 - <details><summary><b>git</b></summary>
 
   - [常用命令](git\git-常用命令.md)
+  - [其它](git\other.md)
 
 </details>
 
