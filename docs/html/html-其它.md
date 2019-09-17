@@ -5,7 +5,7 @@
 - [（鬼工）语音转文字/文字转语音](https://i.loli.net/2019/06/13/5d024ee348c8940754.jpg)
 - [6个免费好用的个人博客写作平台分享](https://www.jianshu.com/p/31d301707cfe?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
 - [电脑双框嵌入,宽、高100%(模板及源码):](http://ahui3a.com/qt/pcwidth.html ) [（效果图）](https://raw.githubusercontent.com/cshgjy/images/master/other/20190721144048.jpg)
-<<<<<<< HEAD
+
 - [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)  
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=w0796utaler" allowFullScreen="true"></iframe>  
@@ -18,4 +18,4 @@
 =======
 - [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)
 
->>>>>>> d2d055c3fa2e9327495cdf7a82677ecadc245e69
+
