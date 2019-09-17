@@ -8,7 +8,7 @@
 
 - <details><summary><b>AE</b></summary>
 
-  - [快捷键](#/)
+  - [快捷键](ae\快捷键.md)
   - [小视频模板](ae\ae-小视频模板.html)
 
 </details>
