@@ -1,4 +1,4 @@
-- [![flbook](img\note.ico ':size=30 flbook')](nav-flbook.md)
+- [![flbook](img\note.ico ':size=30 flbook')](nav\nav-flbook.md)
 
 - [![note](img\note.ico ':size=30 日常日记')](nav\nav-日常日记.md)
 
