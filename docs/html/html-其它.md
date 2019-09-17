@@ -8,14 +8,13 @@
 
 - [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)  
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=w0796utaler" allowFullScreen="true"></iframe>  
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=w0796utaler" allowFullScreen="true"></iframe> <br />
 
-<iframe  src='http://player.youku.com/embed/XNDA1MjY2NTk5Mg==' frameborder="0" allowFullScreen="true"></iframe>  
+<iframe  src='http://player.youku.com/embed/XNDA1MjY2NTk5Mg==' frameborder="0" allowFullScreen="true"></iframe>   <br />
 
-<iframe src="//player.bilibili.com/player.html?aid=36915807&amp;cid=64843341&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
+<iframe src="//player.bilibili.com/player.html?aid=36915807&amp;cid=64843341&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />  
 
 <embed src="https://filedn.com/l2FIU9MpFV7bQwQAyy7gLh4/images/ybwd/%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8%E7%AE%80%E7%95%8C/user/01.htm" pluginspage="http://www.adobe.com/shockwave/download/" width="1000" height="600"></embed>
-=======
-- [灵活运用CSS开发技巧(66个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)
+
 
 
