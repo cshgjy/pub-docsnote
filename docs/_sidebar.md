@@ -56,7 +56,6 @@
 - <details><summary><b>other</b></summary>  
   
    - [vscode插件及快捷键](other\vs_code插件及快捷键.md)
-   - [微信公众号语法](other\微信公众号语法.md)
    - [其它](other\other.md)
 
 </details>
