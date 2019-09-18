@@ -10,7 +10,7 @@
 [微信公众号语法](https://raw.githubusercontent.com/cshgjy/images/master/other/20190918105122.jpg
 )  
 
-[![](http://www.wulihub.com.cn/project/daniu/images/default/logo.png ':size=60 静态网站托管：覆盖更新zip包，分享链接不变；
+[![](http://www.wulihub.com.cn/project/daniu/images/default/logo.png ':size=40 静态网站托管：覆盖更新zip包，分享链接不变；
 分享链接可以设置密码保护，访问需输入密码；
 付费版到期后，旧文件可以继续编辑
 每项目不限覆盖更新次数，单个文件上传限制为50M')](http://www.wulihub.com.cn/)
