@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>demo</title>
+
+<style type="text/css">
+.b_10_3 {
+		overflow: hidden; text-align:center;
+		background-repeat:no-repeat;
+		background-image:url(bj-girl.jpg);
+ }
+.b_10_3 span {
+	float: left; font-size:16px; line-height:2em;
+}
+.b_10_3 span.bold {
+	font-weight:bold;
+}
+.b_10_3 span:nth-child(1) {
+	width: 35%;
+	text-align: center;
+}
+.b_10_3 span:nth-child(2) {
+	width: 30%;
+	text-align: left;
+}
+.b_10_3 span:nth-child(3) {
+	width: 35%;
+	text-align: left;
+}
+.b_10_3 span:nth-child(4) {
+	width: 35%;
+	text-align: right;
+}
+.b_10_3 span:nth-child(5) {
+	width: 25%;
+	text-align: right;
+}
+.b_10_3 span:nth-child(6) {
+	width: 25%;
+	text-align: right;
+}
+.b_10_3 span:nth-child(7) {
+	width: 50%;
+	text-align: center;
+}
+.b_10_3 span:nth-child(8) {
+	width: 30%;
+	text-align: center;
+}
+.b_10_3 span:nth-child(9) {
+	width: 50%;
+	text-align: right;
+}
+.b_10_3 span:nth-child(10) {
+	width: 40%;
+	text-align: right;
+}
+</style>
+
+<script type="text/javascript" src="jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="tagcanvas.min.js"></script>
+<script type="text/javascript">
+window.onload = function () {
+	try {
+		var i, et = document.getElementById('tags').childNodes;
+		for (i in et) {
+			et[i].nodeName == 'A' && et[i].addEventListener('click', function (e) {
+				e.preventDefault();
+			});
+		}
+
+		TagCanvas.Start('myCanvas', 'tags', {
+			textColour: '#222',
+			outlineColour: '#fff',
+			reverse: true,
+			depth: 0.8,//控制深度，值越大，字越小
+			dragControl: true,
+			decel:0.95,//有缩小的效果
+			maxSpeed: 0.02,//控制速度
+			initial: [-0.2, 0.0]//旋转速度及方向
+		});
+	} catch (e) {
+		// something went wrong, hide the canvas container
+		//document.getElementById('myCanvasContainer').style.display = 'none';
+	}
+};
+</script>
+
+</head>
+
+<body>
+
+<div class="b_10_3">
+
+	<canvas width="510" height="510" id="myCanvas"></canvas><!--控制外框大小-->
+	
+	<div id="tags">
+		<a href="http://www.coderdoc.cn/page/584" target="_blank">基本命令</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001131427.png" target="_blank">创建分支</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001131912.png" target="_blank">和本地是否同步</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001130826.png" target="_blank">查看分支</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001131050.png" target="_blank">查看工作区与暂存区变更内容区别</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001131706.png" target="_blank">推上远程仓库</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001132034.png" target="_blank">为远程服务添加一个”别名“</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001132206.png" target="_blank">查看“下拉”是否已最新</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001132310.png" target="_blank">删除远程仓库“别名”</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/191001132603.png" target="_blank">新建“别名origin"</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001132649.png" target="_blank">配置公匙</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001132816.png" target="_blank">重新运行</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133004.png" target="_blank">删除框后的历史查看</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133049.png" target="_blank">切换分支</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133128.png" target="_blank">删除分支</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133228.png" target="_blank">误删分支需要恢复</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133315.png" target="_blank">重命名分支</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133359.png" target="_blank">查看分支图</a>
+		<a href="https://raw.githubusercontent.com/cshgjy/images/master/other/20191001133507.png" target="_blank">回退到指定版本</a>
+		<a href="http://www.coderdoc.cn/page/586" target="_blank">配置公钥</a>
+		<a href="#" target="_blank">？？？</a>
+		
+	</div>
+
+</div>
+
+</body>
+</html>
+<SCRIPT Language=VBScript></SCRIPT>

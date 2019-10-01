@@ -38,6 +38,7 @@
 
   - [常用命令](git\git-常用命令.md)
   - [其它](git\other.md)
+  - [git-3d](git\3d-gray\3d_label.md)
 
 </details>
 
